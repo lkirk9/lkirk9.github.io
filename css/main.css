@@ -1,0 +1,22 @@
+.nav-container {
+  background: lightgreen;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: black;
+}
+
+.nav-list {
+  list-style-type: none;
+  padding: 2px;
+}
+
+.icon {
+  font-size: 50px;
+  text-decoration: none;
+  color: black;
+}/*# sourceMappingURL=main.css.map */
