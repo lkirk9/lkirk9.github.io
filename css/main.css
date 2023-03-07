@@ -1,5 +1,14 @@
+main {
+  background-color: rgb(249, 250, 225);
+}
+
+.logo {
+  font-size: 25px;
+  padding-left: 10px;
+}
+
 .nav-container {
-  background: lightgreen;
+  background: rgb(249, 250, 225);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -15,8 +24,26 @@
   padding: 2px;
 }
 
-.icon {
-  font-size: 50px;
-  text-decoration: none;
-  color: black;
-}/*# sourceMappingURL=main.css.map */
+.navbar-brand {
+  margin-right: 0;
+}
+
+.navbar {
+  background-color: rgb(249, 250, 225);
+}
+
+/* carousel */
+/* .carousel-container{
+    width: 80%;
+    margin: 0 auto;
+} *//*# sourceMappingURL=main.css.map */
+
+
+
+/* Etsy shop button */
+.etsy-button{
+  padding: 15px;
+  background-color: rgb(249, 250, 225);
+  display: flex;
+  justify-content: center;
+}
