@@ -68,6 +68,12 @@ main {
   margin: 2rem;
 }
 
+.contact > section > h2{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
 .contact-form input, textarea{
   padding: 10px;
   margin: 10px 0;
